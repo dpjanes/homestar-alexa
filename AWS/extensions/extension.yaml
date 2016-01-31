@@ -1,0 +1,8 @@
+---
+thing: "tv"
+action: "turn on"
+extension: "TV On"
+---
+thing: "tv"
+action: "turn off"
+extension: "TV Off"

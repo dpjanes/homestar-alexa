@@ -1,0 +1,6 @@
+{
+    "mqttd": {
+        "host": "XXXXXXXXXX.iot.us-east-1.amazonaws.com",
+        "prefix": "iotdb/homestar/0/81EA6324-418D-459C-A9C4-D430F30021C7/alexa"
+    }
+}
