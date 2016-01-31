@@ -139,9 +139,21 @@ You now have a ZIP file with all the certificates. Keep this handy (but private)
 
     $ cd $HOME/homestar-alexa ## you installed this near the top
     $ cd AWS/HomeStar
-    $ sh Push.sh
 
-This will upload the Lambda code.
+You'll need the certificates you made earlier:
+
+    $ unzip <certs>.zip
+    $ ls certs
+    arn.txt
+    cert.pem
+    certificate-id.txt
+    private.pem
+    public.pem
+    rootCA.pem
+
+And this will upload the Lambda code:
+
+    $ sh Push.sh
 
 You will also need the "ARN" for this Lambda Functions. It will look something like **arn:aws:lambda:us-east-1:99999999999:function:HomeStar**. Keep a note of this.
 
@@ -165,6 +177,28 @@ Note that the Alexa console is entirely separate from the AWS console. You may h
 You'll need a connected light for this to work. Try a LIFX or TCP Connected or Philips Hue.
 
 	$ cd $HOME/homestar-alexa/AWS
+
+You'll need the certificates you made earlier:
+
+    $ unzip <certs>.zip
+    $ ls certs
+    arn.txt
+    cert.pem
+    certificate-id.txt
+    private.pem
+    public.pem
+    rootCA.pem
+
+Also:
+
+    $ cp AWS.json.prototype AWS.json
+    $ vi AWS.json
+
+and add in the AWS Endpoint / hostname you found earlier that looks like this 
+**XXXXXXXXXXXXXX.iot.us-east-1.amazonaws.com**.
+
+Then:
+
 	$ node AWS.js
 	(lots of output)
 	
