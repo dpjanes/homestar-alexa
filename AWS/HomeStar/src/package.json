@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "iotdb": ">=0.11.0", 
+        "iotdb-transport": "~0.0.23", 
+        "iotdb-transport-mqtt": "~0.0.20"
+    }, 
+    "version": "0.0.0"
+}
