@@ -1,0 +1,26 @@
+{
+  "intents": [
+    {
+      "intent": "HomeStarFirstIntent",
+      "slots": [
+        {
+            "name": "Action",
+            "type": "LIST_OF_ACTIONS"
+        },
+        {
+            "name": "Thing",
+            "type": "LIST_OF_THINGS"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
