@@ -25,9 +25,3 @@
 var iotdb = require('iotdb');
 var _ = iotdb._;
 
-/**
- *  Functions defined in index.setup
- */
-var some_function = function(request, response, locals, done) {
-    done(null);
-};
