@@ -1,5 +1,5 @@
 # homestar-alexa
-IOTDB / HomeStar Module for talking to Alexa / Amazon Echo
+[IOTDB](https://github.com/dpjanes/node-iotdb) Bridge for talking to Alexa / Amazon Echo
 
 
 ## Basic Idea
