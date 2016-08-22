@@ -8,7 +8,7 @@
         "iotdb-transport-alexa": "~0.0.1", 
         "iotdb-transport-mqtt": "~0.0.18"
     }, 
-    "description": "HomeStar extension to allow control through Alexa IoT", 
+    "description": "IOTDB Module to allow control through Alexa IoT", 
     "devDependencies": {
         "grunt": "~0.4.5", 
         "grunt-contrib-jshint": "~0.12.0", 
