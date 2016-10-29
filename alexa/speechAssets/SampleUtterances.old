@@ -1,0 +1,15 @@
+## tell homestar to set brightness to 50 percent
+## tell homestar to set volume to 50 percent
+
+HomeStarFirstIntent {Action} {Thing}
+HomeStarFirstIntent {Action} the {Thing}
+HomeStarFirstIntent to {Action} {Thing}
+HomeStarFirstIntent to {Action} the {Thing}
+HomeStarFirstIntent to {Action} all things
+HomeStarFirstIntent to {Query} all things
+HomeStarFirstIntent to {Action} everything
+HomeStarFirstIntent to {Query} everything
+HomeStarFirstIntent what is {Query}
+
+HomeStarFirstIntent switch to {Mode}
+HomeStarFirstIntent switch {Thing} to {Mode}

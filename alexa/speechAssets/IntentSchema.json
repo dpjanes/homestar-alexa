@@ -1,0 +1,54 @@
+{
+  "intents": [
+    {
+      "intent": "HomeStarFirstIntent",
+      "slots": [
+        {
+            "name": "Channel",
+            "type": "AMAZON.NUMBER"
+        },
+        {
+            "name": "Temperature",
+            "type": "AMAZON.NUMBER"
+        },
+        {
+            "name": "Action",
+            "type": "Action"
+        },
+        {
+            "name": "ActionCommand",
+            "type": "ActionCommand"
+        },
+        {
+            "name": "ActionSwitch",
+            "type": "ActionSwitch"
+        },
+        {
+            "name": "Band",
+            "type": "Band"
+        },
+        {
+            "name": "Query",
+            "type": "Query"
+        },
+        {
+            "name": "Thing",
+            "type": "Thing"
+        },
+        {
+            "name": "Zone",
+            "type": "Zone"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

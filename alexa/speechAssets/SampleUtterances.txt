@@ -1,0 +1,41 @@
+
+HomeStarFirstIntent to {Action} the {Thing}
+HomeStarFirstIntent {Action} the {Thing}
+HomeStarFirstIntent to {Action} {Thing}
+HomeStarFirstIntent {Action} {Thing}
+
+HomeStarFirstIntent to {Action} everything
+HomeStarFirstIntent {Action} everything
+
+HomeStarFirstIntent to {Action} the {Thing} in the {Zone}
+HomeStarFirstIntent {Action} the {Thing} in the {Zone}
+HomeStarFirstIntent to {Action} {Thing} in the {Zone}
+HomeStarFirstIntent {Action} {Thing} in the {Zone}
+
+HomeStarFirstIntent to {Action} the {Zone} {Thing}
+HomeStarFirstIntent {Action} the {Zone} {Thing}
+HomeStarFirstIntent to {Action} {Zone} {Thing}
+HomeStarFirstIntent {Action} {Zone} {Thing}
+
+HomeStarFirstIntent what is the {Query}
+HomeStarFirstIntent what is {Query}
+
+HomeStarFirstIntent what is the {Query} of the {Thing}
+HomeStarFirstIntent what is {Query} of the {Thing}
+
+HomeStarFirstIntent what is the {Query} in the {Zone}
+HomeStarFirstIntent what is {Query} in the {Zone}
+
+HomeStarFirstIntent what is the {Query} of the {Thing} in the {Zone}
+HomeStarFirstIntent what is {Query} of the {Thing} in the {Zone}
+HomeStarFirstIntent what is the {Query} in the {Zone} of the {Thing}
+HomeStarFirstIntent what is {Query} in the {Zone} of the {Thing}
+
+HomeStarFirstIntent {Special} things in the {Zone}
+HomeStarFirstIntent {Special} all things in the {Zone}
+HomeStarFirstIntent {Special} everything in the {Zone}
+HomeStarFirstIntent {Special} in the {Zone}
+
+HomeStarFirstIntent {Special} things
+HomeStarFirstIntent {Special} all things
+HomeStarFirstIntent {Special} everything
