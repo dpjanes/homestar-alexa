@@ -1,0 +1,16 @@
+{
+    "version": "1.0",
+    "response": {
+        "outputSpeech": {
+            "type": "PlainText",
+            "text": "ok"
+        },
+        "card": {
+            "type": "Simple",
+            "title": "ok",
+            "content": "ok"
+        },
+        "shouldEndSession": true
+    },
+    "sessionAttributes": {}
+}

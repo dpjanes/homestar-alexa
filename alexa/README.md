@@ -1,5 +1,10 @@
 HomeStar / Alexa Interface
 
+## Folders
+
+* speechAssets - our improved vocabulary
+* speechAssets.old - old vocab, used in the [Hackster.io project](https://www.hackster.io/dpjanes/home-star-aws-iot-amazon-echo-07319c)
+
 ## Important URLs
 
 * [AWS Lambda Console](https://console.aws.amazon.com/lambda/home?region=us-east-1#)
