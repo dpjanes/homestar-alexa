@@ -1,6 +1,19 @@
 # homestar-alexa
-[IOTDB](https://github.com/dpjanes/node-iotdb) Bridge for talking to Alexa / Amazon Echo
 
+[IOTDB](https://github.com/dpjanes/node-iotdb) sample code for Alexa Voice Skills.
+Very much a work in progress.
+
+## Important URLs
+
+* [AWS Lambda Console](https://console.aws.amazon.com/lambda/home?region=us-east-1#)
+* [Alexa Skills Console](https://developer.amazon.com/edw/home.html#/skills/list)
+* [Alexa Personal Console](http://alexa.amazon.com/)
+
+## Folders
+
+* speechAssets - Alexa Voice Skill definutions
+* hosted - hosted Alexa Voice Skill example code
+* AWS - Lambda Alexa Voice Skill code
 
 ## Basic Idea
 
